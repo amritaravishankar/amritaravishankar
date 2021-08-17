@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Amrita!
 
-I'm a Year 3 Computer Science Undergraduate at Nanyang Technological University.
+I'm a Final Year Computer Science Undergraduate at Nanyang Technological University.
 
 I love taking up challenges and tasks which require thinking out-of-the-box!
 
